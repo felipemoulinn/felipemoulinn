@@ -61,10 +61,21 @@
   <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
 </p>
 
+---
+
+## 🐍 Snake Game (Commits)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-snake.svg" />
+  </picture>
+</p>
+
 <!--  🔥 Atividade Recente -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 
 <!-- ⏱️ WakaTime -->
 <!--START_SECTION:waka-->
@@ -76,8 +87,8 @@
 - Banco de Dados não relacionais
 - Desenvolvimento Multiplataforma
 - Engenharia de Software
-- Álgebra linear e Geometria Análitica
-- Teoria da computação, autômatos e linguagens formais
+- Álgebra Linear e Geometria Analítica
+- Teoria da Computação, autômatos e linguagens formais
 
 ---
 
