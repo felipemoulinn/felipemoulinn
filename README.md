@@ -61,25 +61,23 @@
   <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
 </p>
 
----
-
-### 🔥 Atividade Recente
+<!--  🔥 Atividade Recente -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
 
-### ⏱️ WakaTime
+<!-- ⏱️ WakaTime -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
 ### 📚 O que estou aprendendo agora
-- Algoritmos e Estruturas de Dados
-- Banco de Dados (modelagem, indexação)
-- Desenvolvimento Web Full-Stack (Node.js, Express, MongoDB, autenticação)
-- Integração e Deploy (CI/CD)
+- Banco de Dados não relacionais
+- Desenvolvimento Multiplataforma
+- Engenharia de Software
+- Álgebra linear e Geometria Análitica
+- Teoria da computação, autômatos e linguagens formais
 
 ---
 
