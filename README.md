@@ -61,16 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
 </p>
 
----
-
-## 🐍 Snake Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 <!--  🔥 Atividade Recente -->
 <!--START_SECTION:activity-->
