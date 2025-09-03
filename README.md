@@ -1,21 +1,23 @@
-<h1 align="center">Olá! Tudo bem? Me chamo Felipe Moulin :wave:</h1>
+<h1 align="center">👋 Olá! Eu sou Felipe Moulin</h1>
 
-Atualmente estou no 3º semestre de Ciência da Computação no Instituto Mauá de Tecnologia.
-
-Este espaço aqui no GitHub é onde reúno os projetos que venho desenvolvendo, os desafios que encaro e os aprendizados que surgem ao longo da faculdade.
-
-A ideia é registrar minha jornada, compartilhar soluções que achei úteis e, quem sabe, ajudar outros estudantes que estão trilhando o mesmo caminho na área da tecnologia.
-
----
-
-### :link: Conectar
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moulinfelipe3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-moulin-a41091341/)
+<p align="center">
+  Estudante de <b>Ciência da Computação</b> no <b>Instituto Mauá de Tecnologia</b>.<br>
+  Aqui compartilho meus projetos, estudos e aprendizados ao longo da jornada acadêmica e pessoal.
+</p>
 
 ---
 
-### :computer: Tecnologias
+### 🔗 Conectar
+
+<p align="center">
+  <a href="mailto:moulinfelipe3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/felipe-moulin-a41091341/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=felipemoulin&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
+
+---
+
+### 🧰 Tech Stack
 
 #### Linguagens
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +26,7 @@ A ideia é registrar minha jornada, compartilhar soluções que achei úteis e, 
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 
-#### Banco de dados e servidores
+#### Banco de Dados e Servidores
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,15 +40,49 @@ A ideia é registrar minha jornada, compartilhar soluções que achei úteis e, 
 
 ---
 
-## :bar_chart: Status
+## 🚀 Projetos em Destaque
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemoulinn&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulinn&layout=compact&theme=tokyonight)
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [**Mauá Esports**](https://github.com/felipemoulin/MauaEsports) | Node.js • MongoDB • Express • Front-end | Plataforma para gestão de treinos, equipes e PAE do projeto Mauá Esports, com autenticação e dashboards. |
+| [**O Semeador**](https://github.com/Lucasnovaess/O-Semeador-) | HTML • CSS • JS | Site criativo desenvolvido em equipe, focado em design e experiência do usuário. |
+| [**Poliedro Milhão**](https://github.com/felipemoulin/SHOW_DO_MILHAO) | Java • Swing/JavaFX • MySQL | Jogo estilo quiz com interface gráfica, persistência de dados e desafios de lógica. |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipemoulinn&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=felipemoulinn&color=blue&style=flat-square)
+### 📊 Status do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemoulin&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulin&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
+</p>
 
+---
 
+### 🔥 Atividade Recente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### ⏱️ WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📚 O que estou aprendendo agora
+- Algoritmos e Estruturas de Dados
+- Banco de Dados (modelagem, indexação)
+- Desenvolvimento Web Full-Stack (Node.js, Express, MongoDB, autenticação)
+- Integração e Deploy (CI/CD)
+
+---
+
+<p align="center">
+  💡 Sinta-se à vontade para contribuir ou entrar em contato comigo! 🚀
+</p>
