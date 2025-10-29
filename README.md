@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 Status do GitHub
+<!-- ### 📊 Status do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipemoulinn&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
@@ -75,11 +75,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=felipemoulinn&theme=tokyonight" height="150"/>
-</p>
+</p> -->
 
 ---
 
-### 📊 Linguagens Mais Usadas
+ ### 📊 Linguagens Mais Usadas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemoulinn&theme=tokyonight" height="150" />
