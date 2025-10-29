@@ -25,7 +25,6 @@
 ### 🧰 Tech Stack
 
 #### Linguagens & Frameworks
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +34,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-
 #### Banco de Dados e Servidores
 <!-- Relacionais -->
 <b>Relacionais</b><br>
@@ -44,7 +42,6 @@
 <!-- Não Relacionais (NoSQL) -->
 <b>Não Relacionais (NoSQL)</b><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 <!-- Servidores/Runtime -->
 <b>Servidores / Runtime</b><br>
@@ -80,13 +77,30 @@
   <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
 </p>
 
-<!--  🔥 Atividade Recente -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+---
 
-<!-- ⏱️ WakaTime -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📊 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemoulin&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipemoulin&theme=tokyonight" height="150" />
+</p>
+
+<!-- Alternativas:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulin&layout=donut-vertical&theme=tokyonight&langs_count=8" height="150" />
+-->
+
+---
+
+### 🐍 Atividade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
