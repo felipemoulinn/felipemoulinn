@@ -41,8 +41,7 @@
 <!-- Não Relacionais (NoSQL) -->
 <b>Não Relacionais (NoSQL)</b><br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 <!-- Servidores/Runtime -->
 <b>Servidores / Runtime</b><br>
