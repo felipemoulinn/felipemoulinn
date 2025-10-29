@@ -1,14 +1,27 @@
-<h1 align="center">👋 Olá! Eu sou Felipe Moulin</h1>
+<h1 align="center">
+  <span style="display:inline-block; animation: wave 1.8s infinite ease-in-out;">👋</span>
+  Olá! Eu sou <b>Felipe Moulin</b>
+</h1>
 
-<!-- Cabeçalho animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=24&pause=900&color=42A5F5&center=true&vCenter=true&width=900&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IMT;Front-end+%2B+Mobile+com+Flutter%2FDart;Sempre+aprendendo+e+construindo+projetos+%F0%9F%9A%80" />
-</p>
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> no <b>Instituto Mauá de Tecnologia</b>.<br>
+  <b>Estudante de Ciência da Computação</b><br>
+  <span style="color:#58a6ff;">Estudante do Instituto Mauá de Tecnologia</span><br>
   Aqui compartilho meus projetos, estudos e aprendizados ao longo da jornada acadêmica e pessoal.
 </p>
+
 
 ---
 
