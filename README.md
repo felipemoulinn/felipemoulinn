@@ -17,7 +17,7 @@
 <p align="center">
   <a href="mailto:moulinfelipe3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/felipe-moulin-a41091341/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=felipemoulin&color=blue&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=felipemoulinn&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
 
 ---
@@ -69,12 +69,12 @@
 ### 📊 Status do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipemoulin&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulin&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemoulinn&show_icons=true&theme=tokyonight&hide=issues" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulinn&layout=compact&theme=tokyonight&langs_count=8" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=felipemoulin&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=felipemoulinn&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -82,9 +82,10 @@
 ### 📊 Linguagens Mais Usadas
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemoulin&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipemoulin&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemoulinn&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipemoulinn&theme=tokyonight" height="150" />
 </p>
+
 
 <!-- Alternativas:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulin&layout=donut-vertical&theme=tokyonight&langs_count=8" height="150" />
@@ -93,14 +94,14 @@
 ---
 
 ### 🐍 Atividade
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoulinn/felipemoulinn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipemoulinn/felipemoulinn/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/felipemoulinn/felipemoulinn/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 ---
 
