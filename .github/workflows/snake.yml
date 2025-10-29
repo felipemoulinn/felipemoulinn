@@ -1,15 +1,17 @@
 name: Generate Snake
 
 on:
-  # atualiza a cada push e 1x por dia
-  push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # 1x por dia
+  push:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write      # necessário para publicar no branch output
     steps:
       - uses: Platane/snk@v3
         with:
