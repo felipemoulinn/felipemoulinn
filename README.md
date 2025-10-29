@@ -1,14 +1,19 @@
-<h1 align="center">👋 Olá! Eu sou Felipe Moulin</h1>
+<h1 align="center">
+  <span style="display:inline-block; transform-origin: 70% 70%; animation: wave 2s infinite;">
+    👋
+  </span>
+  Olá! Eu sou <b>Felipe Moulin</b>
+</h1>
 
-<!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=24&pause=900&color=42A5F5&center=true&vCenter=true&width=900&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IMT;Front-end+%2B+Mobile+com+Flutter%2FDart;Sempre+aprendendo+e+construindo+projetos+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  Estudante de <b>Ciência da Computação</b> no <b>Instituto Mauá de Tecnologia</b>.<br>
+  <b>Estudante de Ciência da Computação</b><br>
+  Estudante do Instituto Mauá de Tecnologia<br>
   Aqui compartilho meus projetos, estudos e aprendizados ao longo da jornada acadêmica e pessoal.
 </p>
+
+<!-- animação inline -->
+<img src="https://raw.githubusercontent.com/felipemoulin/felipemoulin/output/github-contribution-grid-snake.svg" alt="Snake animation" width="0" height="0">
+
 
 ---
 
