@@ -59,11 +59,10 @@
 
 | Projeto | Tecnologias | Descrição |
 | --- | --- | --- |
+| [**S4 — Sistema para Professores Poliedro**](https://github.com/felipemoulin/S4-Poliedro-Sistema-Para-Professores) | Dart, JavaScript | Sistema desenvolvido em equipe para o grupo educacional Poliedro, centralizando a gestão escolar e permitindo o gerenciamento de disciplinas, notas, calendário e notificações. |
 | [**Mauá Esports**](https://github.com/felipemoulin/MauaEsports) | | Plataforma para gestão de treinos, equipes e PAE do projeto Mauá Esports, com autenticação e dashboards. |
 | [**O Semeador**](https://github.com/Lucasnovaess/O-Semeador-) | | Site criativo desenvolvido em equipe, focado em design e experiência do usuário. |
 | [**Poliedro Milhão**](https://github.com/felipemoulin/SHOW_DO_MILHAO) | | Jogo estilo quiz com interface gráfica, persistência de dados e desafios de lógica. |
-| **S4 — Sistema para Professores Poliedro** | Dart, JavaScript, C++ | Sistema desenvolvido em equipe para o grupo educacional Poliedro, centralizando a gestão escolar e permitindo o gerenciamento de disciplinas, notas, calendário e notificações. |
-
 ---
 
 <!-- ### 📊 Status do GitHub
