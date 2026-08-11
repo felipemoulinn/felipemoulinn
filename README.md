@@ -2,8 +2,7 @@
 
 <!-- Cabeçalho animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=24&pause=900&color=42A5F5&center=true&vCenter=true&width=900&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IMT;Front-end+%2B+Mobile+com+Flutter%2FDart;Sempre+aprendendo+e+construindo+projetos+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=600&size=24&pause=900&color=42A5F5&center=true&vCenter=true&width=900&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+IMT;Desenvolvimento+de+Software+%7C+Algoritmos+%7C+Engenharia+de+Software;Construindo+projetos+e+buscando+evoluir+todos+os+dias+%F0%9F%9A%80" />
 
 <p align="center">
   Estudante de <b>Ciência da Computação</b> no <b>Instituto Mauá de Tecnologia</b>.<br>
