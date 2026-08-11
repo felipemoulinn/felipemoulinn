@@ -59,9 +59,9 @@
 
 | Projeto | Tecnologias | Descrição |
 | --- | --- | --- |
-| [**S4 — Sistema para Professores Poliedro**](https://github.com/felipemoulin/S4-Poliedro-Sistema-Para-Professores) | Dart, JavaScript, C++ | Sistema desenvolvido em equipe para o grupo educacional Poliedro, centralizando a gestão escolar e permitindo o gerenciamento de disciplinas, notas, calendário e notificações. |
-| [**Mauá Esports**](https://github.com/felipemoulin/MauaEsports) | React, Node.js, Python, MongoDB, Azure, MSAL, Tailwind CSS, Vite | Plataforma para gestão de treinos, equipes e PAE do projeto Mauá Esports, com autenticação e dashboards. |
-| [**O Semeador**](https://github.com/Lucasnovaess/O-Semeador-) | HTML, CSS, JavaScript | Site criativo desenvolvido em equipe, focado em design e experiência do usuário. |
+| [**S4 — Sistema para Professores Poliedro**](https://github.com/antonioVitor04/S4-Poliedro-Sistema-Para-Professores) | Dart, JavaScript, C++ | Sistema desenvolvido em equipe para o grupo educacional Poliedro, centralizando a gestão escolar e permitindo o gerenciamento de disciplinas, notas, calendário e notificações. |
+| [**Mauá Esports**](https://github.com/VictorHugo-7/S3-Site-MauaEsports) | React, Node.js, Python, MongoDB, Azure, MSAL, Tailwind CSS, Vite | Plataforma para gestão de treinos, equipes e PAE do projeto Mauá Esports, com autenticação e dashboards. |
+| [**O Semeador**](https://github.com/felipemoulinn/O-Semeador-) | HTML, CSS, JavaScript | Site criativo desenvolvido em equipe, focado em design e experiência do usuário. |
 | [**Poliedro Milhão**](https://github.com/felipemoulin/SHOW_DO_MILHAO) | Java | Jogo estilo quiz com interface gráfica, persistência de dados e desafios de lógica. |
 <!-- ### 📊 Status do GitHub
 
