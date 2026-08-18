@@ -101,15 +101,6 @@
 
 ---
 
-### 📚 O que estou aprendendo agora
-- Banco de Dados não relacionais (NoSQL)
-- Desenvolvimento Multiplataforma (Flutter/Dart)
-- Engenharia de Software
-- Álgebra Linear e Geometria Analítica
-- Teoria da Computação, autômatos e linguagens formais
-
----
-
 <p align="center">
   💡 Sinta-se à vontade para contribuir ou entrar em contato comigo! 🚀
 </p>
