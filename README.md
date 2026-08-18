@@ -75,20 +75,6 @@
 
 ---
 
- ### 📊 Linguagens Mais Usadas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipemoulinn&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipemoulinn&theme=tokyonight" height="150" />
-</p>
-
-
-<!-- Alternativas:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoulin&layout=donut-vertical&theme=tokyonight&langs_count=8" height="150" />
--->
-
----
-
 ### 🐍 Atividade
 <p align="center">
   <picture>
